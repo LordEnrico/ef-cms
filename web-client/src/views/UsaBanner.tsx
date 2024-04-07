@@ -19,15 +19,10 @@ export const UsaBanner = connect(
             <div className="grid-container usa-banner__inner">
               <div className="grid-col-auto">
                 {' '}
-                <img
-                  alt="U.S. flag"
-                  className="usa-banner__header-flag"
-                  src={usFlag}
-                />
               </div>
               <div className="grid-col-fill tablet:grid-col-auto">
                 <p className="usa-banner__header-text">
-                  An official website of the United States government
+                  An official website of the Phlagistan Government
                 </p>
                 <p aria-hidden="true" className="usa-banner__header-action">
                   Here’s how you know
@@ -60,11 +55,11 @@ export const UsaBanner = connect(
                   />
                   <div className="usa-media-block__body">
                     <p>
-                      <strong>The .gov means it’s official.</strong>
+                      <strong>The .rf.gd means it’s official.</strong>
                       <br />
-                      Federal government websites often end in .gov or .mil.
+                      National authority websites often end in .rf.gd or .org.
                       Before sharing sensitive information, make sure you’re on
-                      a federal government site.
+                      a national authority site.
                     </p>
                   </div>
                 </div>
